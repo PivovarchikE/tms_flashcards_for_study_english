@@ -218,4 +218,4 @@ __marimo__/
 config.py
 
 .flake8
-database.py
+flashcards.db
